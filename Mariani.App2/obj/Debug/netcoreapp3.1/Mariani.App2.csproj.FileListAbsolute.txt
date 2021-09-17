@@ -1,0 +1,14 @@
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\bin\Debug\netcoreapp3.1\Mariani.App2.exe
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\bin\Debug\netcoreapp3.1\Mariani.App2.deps.json
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\bin\Debug\netcoreapp3.1\Mariani.App2.runtimeconfig.json
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\bin\Debug\netcoreapp3.1\Mariani.App2.runtimeconfig.dev.json
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\bin\Debug\netcoreapp3.1\Mariani.App2.dll
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\bin\Debug\netcoreapp3.1\Mariani.App2.pdb
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.csproj.AssemblyReference.cache
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.AssemblyInfoInputs.cache
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.AssemblyInfo.cs
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.csproj.CoreCompileInputs.cache
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.dll
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.pdb
+C:\Users\mattm\OneDrive\repos\Mariani.App2\Mariani.App2\obj\Debug\netcoreapp3.1\Mariani.App2.genruntimeconfig.cache

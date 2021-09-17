@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mariani.App2/1.0.0": {
+        "runtime": {
+          "Mariani.App2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mariani.App2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
